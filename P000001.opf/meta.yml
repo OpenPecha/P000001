@@ -21,7 +21,7 @@ layers:
         - page # page-index in boyig
         - correction
       format:
-        - epub
+        - md
     publication:
       loc: tree/publication
       layers:

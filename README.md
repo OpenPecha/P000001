@@ -1,11 +1,11 @@
 # བཀའ་འགྱུར ༼སྡེ་དགེ༽
 
-## བཟོས་བཅོས།
+## Edit
 
 - Publication -->  [![](https://img.icons8.com/cute-clipart/24/000000/edit.png)](http://prose.io/#OpenPecha/P000001/)
 - Diplomatic -->  [![](https://img.icons8.com/cute-clipart/24/000000/edit.png)](http://prose.io/#OpenPecha/P000001/)
 
-## ཕབ་ལེན།
+## Download
 
 - Publication 
     - [![](https://img.icons8.com/cute-clipart/24/000000/markdown.png)]( )      [![](https://img.icons8.com/cute-clipart/24/000000/epub.png)]( )

@@ -2,7 +2,7 @@
 
 ## བཟོས་བཅོས།
 
-[![](https://img.icons8.com/cute-clipart/64/000000/edit-file.png)](http://prose.io/#OpenPecha/P000001/)
+[![](https://img.icons8.com/cute-clipart/64/000000/edit.png)](http://prose.io/#OpenPecha/P000001/)
 
 ## ཕབ་ལེན།
  views:

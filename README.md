@@ -2,7 +2,7 @@
 
 ## བཟོས་བཅོས།
 
-<iframe src="https://www.w3schools.com/tags/tag_iframe.asp" width="100%" height="300" style="border:1px solid black;">
+<iframe src="https://prose.io/#OpenPecha/P000001" width="100%" height="300" style="border:1px solid black;">
 </iframe>
 
 <iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0021001&origin=tashilhunpo.org" width="100%" height="600"></iframe>

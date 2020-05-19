@@ -7,7 +7,7 @@
 
 ## Downloads
 
-- **Publication**
+- **Publication View**
     - [![](https://img.icons8.com/cute-clipart/24/000000/markdown.png) Markdown (.md)](link)
     - [![](https://img.icons8.com/cute-clipart/24/000000/epub.png) Epub (.epub)](link)
     - [![](https://img.icons8.com/color/24/000000/microsoft-word-2019.png) Word (.docx)](link)
@@ -16,7 +16,7 @@
         - page # page-index in boyig
         - correction
 
-- **Diplomatic**
+- **Diplomatic View**
     - [![](https://img.icons8.com/cute-clipart/24/000000/txt.png) Plain text (.txt)](link)
     - [![](https://img.icons8.com/cute-clipart/24/000000/markdown.png) Markdown (.md)](link)
 

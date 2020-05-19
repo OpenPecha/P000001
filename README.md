@@ -5,10 +5,11 @@
 - Publication -->  [![](https://img.icons8.com/cute-clipart/24/000000/edit.png)](http://prose.io/#OpenPecha/P000001/)
 - Diplomatic -->  [![](https://img.icons8.com/cute-clipart/24/000000/edit.png)](http://prose.io/#OpenPecha/P000001/)
 
-## Download
+## Downloads
 
-- Publication 
-    - [![](https://img.icons8.com/cute-clipart/24/000000/markdown.png)]( )      [![](https://img.icons8.com/cute-clipart/24/000000/epub.png)]( )
+- **Publication**
+    - Download: [![](https://img.icons8.com/cute-clipart/24/000000/markdown.png)]( )      [![](https://img.icons8.com/cute-clipart/24/000000/epub.png)]( )
+    - Layers:
         - toc
         - page # page-index in boyig
         - correction

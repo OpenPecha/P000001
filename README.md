@@ -2,25 +2,18 @@
 
 ## བཟོས་བཅོས།
 
-[![](https://img.icons8.com/cute-clipart/64/000000/edit.png)](http://prose.io/#OpenPecha/P000001/)
+- Publication -->  [![](https://img.icons8.com/cute-clipart/24/000000/edit.png)](http://prose.io/#OpenPecha/P000001/)
+- Diplomatic -->  [![](https://img.icons8.com/cute-clipart/24/000000/edit.png)](http://prose.io/#OpenPecha/P000001/)
 
 ## ཕབ་ལེན།
- views:
-    temporary:
-      loc: releases/tag/temp
-      layers:
+
+- Publication 
+    - [![](https://img.icons8.com/cute-clipart/24/000000/markdown.png)]( )      [![](https://img.icons8.com/cute-clipart/24/000000/epub.png)]( )
         - toc
         - page # page-index in boyig
         - correction
-      format:
-        - md
-    publication:
-      loc: tree/publication
-      layers:
-        - toc
-        - page # page-index in boyig
-        - correction
-      format:
+
+format:
         - hfml
     diplomatic:
       loc: tree/diplomatic
@@ -33,12 +26,7 @@
 
 
 
-
-
-
-
-
-## ཀློག་རྡུལ་ཡིག་ཆའི་མ་དཔེ།
+## དཔེ་ཆའི་མ་ཕྱིའི་དཔེ་ཐོ།
 
 - BDRC ཨང་། W4CZ5369
 - མཚན་བྱང་། བཀའ་འགྱུར ༼སྡེ་དགེ༽

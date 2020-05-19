@@ -2,7 +2,7 @@
 
 ## བཟོས་བཅོས།
 
-<iframe src="http://prose.io/#OpenPecha/P000001/tree/publication" width="100%" height="300" style="border:1px solid black;">
+<iframe src="https://www.w3schools.com/tags/tag_iframe.asp" width="100%" height="300" style="border:1px solid black;">
 </iframe>
 
 

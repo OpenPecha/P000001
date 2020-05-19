@@ -2,10 +2,7 @@
 
 ## བཟོས་བཅོས།
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTfkmVlspN8T0oyeIjZHlpvJHnUkZrE5svnEfBe4EwxU_QCiV0bAKykXmusrTCTv5yEJb86-zZQkOvc/pub?start=false&loop=false&delayms=3000" width="100%" height="300" style="border:1px solid black;">
-</iframe>
-
-<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0021001&origin=tashilhunpo.org" width="100%" height="600"></iframe>
+<iframe src="http://prose.io/#OpenPecha/P000001/blob/publication/001_%E0%BD%A0%E0%BD%91%E0%BD%B4%E0%BD%A3%E0%BC%8B%E0%BD%96%E0%BC%8D_%E0%BD%80.txt" width="100%" height="600" style="border:1px solid black;"></iframe>
 
 ## ཕབ་ལེན།
  views:

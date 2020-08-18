@@ -38,6 +38,6 @@ layers:
       format:
         - hfml
        
-vols:
+vol_fns:
   v001: 001_འདུལ་བ།_ཀ.txt
   v002: 002_འདུལ་བ།_ཁ.txt

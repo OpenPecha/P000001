@@ -54,17 +54,17 @@ annotations:
   correction: པྲཧྨཱད་
   certainty: null
   span:
-    start: 1011558
-    end: 1011565
+    start: 1011557
+    end: 1011564
 - id: 028c218e751b4ce28d52122272155103
   correction: ཨོཾ་
   certainty: null
   span:
-    start: 1019116
-    end: 1019118
+    start: 1019115
+    end: 1019117
 - id: 66fd38f21fa34547881a723c0ffea2df
   correction: སྔགས་
   certainty: null
   span:
-    start: 1028096
-    end: 1028100
+    start: 1028095
+    end: 1028099
